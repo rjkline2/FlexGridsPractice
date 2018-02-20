@@ -1,0 +1,78 @@
+﻿body {
+}
+/* = ===== 
+FLexbox Grids 
+=========*/
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.row_cell {
+    flex: 1
+}
+
+.row_cell--2 {
+    flex: 2
+}
+
+.row_cell--3 {
+    flex: 3
+}
+
+
+.row_cell--top {
+    align-self: flex-start
+}
+
+.row_cell--bottom {
+    align-self: flex-end
+}
+
+.row_cell--center {
+    align-self: center
+}
+
+
+.row--top {
+    align-items: flex-start
+}
+
+.row--bottom {
+    align-items: flex-end
+}
+
+.row--center {
+    align-items: center
+}
+
+
+/*= ======
+visuals
+=======*/
+.row {
+    padding: 15px;
+    background: rgba(0,0,0,0.08);
+    margin: 8px 0;
+}
+
+.row_cell,
+.row_cell--2,
+.row_cell--3 {
+    background: rgba(0,0,0,0.13);
+    padding: 10px;
+    margin: 5px;
+}
+
+body {
+    color: rgba(0,0,0,0.7);
+    font-size: 0.9em;
+}
+
+h4 {
+    padding: 20px 10px 10px;
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: bold;
+}

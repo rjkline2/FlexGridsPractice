@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FlexGridsPractice", "FlexGridsPractice\", "{584A3D74-04DB-4782-9ED5-86CE9D200288}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50362"
+		Debug.AspNetCompiler.PhysicalPath = "FlexGridsPractice\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50362\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50362"
+		Release.AspNetCompiler.PhysicalPath = "FlexGridsPractice\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50362\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50362"
+		SlnRelativePath = "FlexGridsPractice\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{584A3D74-04DB-4782-9ED5-86CE9D200288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584A3D74-04DB-4782-9ED5-86CE9D200288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17B65BB8-F3DF-457A-B86F-37F009FE2EF1}
+	EndGlobalSection
+EndGlobal
